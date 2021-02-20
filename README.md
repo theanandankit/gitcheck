@@ -1,6 +1,6 @@
 # gitcheck
 
-this is demo app
+This is demo app
 
 ## Submitting a PR
 
