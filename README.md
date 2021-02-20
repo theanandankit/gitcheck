@@ -1,5 +1,7 @@
 # gitcheck
 
+this is demo app
+
 ## Submitting a PR
 
 If you have a specific idea of a fix or update, follow these steps below to submit a PR:
