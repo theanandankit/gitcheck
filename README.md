@@ -7,8 +7,8 @@ this is demo app
 If you have a specific idea of a fix or update, follow these steps below to submit a PR:
 
 - [Step 1: Make the change](#step-1-make-the-change)
-- [Step 4: Commit and push your changes](#step-4-commit-and-push-your-changes)
-- [Step 5: Create a pull request](#step-5-create-a-pull-request)
+- [Step 2: Commit and push your changes](#step-2-commit-and-push-your-changes)
+- [Step 3: Create a pull request](#step-3-create-a-pull-request)
 
 ### Step 1: Make the change
 
@@ -48,7 +48,7 @@ If you have a specific idea of a fix or update, follow these steps below to subm
    $ git rebase upstream/master
    $ git checkout -b myfeature
    
-### Step 4: Commit and push your changes
+### Step 2: Commit and push your changes
 
 Congratulations! Now you have finished all tests and are ready to commit your code.
 
@@ -72,7 +72,7 @@ Congratulations! Now you have finished all tests and are ready to commit your co
    $ git push -f origin myfeature
    ```
 
-### Step 5: Create a pull request
+### Step 3: Create a pull request
 
 1. Visit your fork at <https://github.com/manishdangi98/gitcheck> (replace the first chaos-mesh with your username).
 2. Click the Compare & pull request button next to your `myfeature` branch.
