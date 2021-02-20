@@ -20,8 +20,8 @@ If you have a specific idea of a fix or update, follow these steps below to subm
 2. Set your cloned local to track the upstream repository:
 
    ```bash
-   $ cd chaos-mesh
-   $ git remote add upstream https://github.com/chaos-mesh/chaos-mesh
+   $ cd gitcheck
+   $ git remote add upstream https://github.com/manishdangi98/gitcheck
    ```
 
 3. Disable pushing to upstream master:
@@ -34,8 +34,8 @@ If you have a specific idea of a fix or update, follow these steps below to subm
    The output should look like:
 
    ```bash
-   origin    git@github.com:$(user)/chaos-mesh.git (fetch)
-   origin    git@github.com:$(user)/chaos-mesh.git (push)
-   upstream  https://github.com/chaos-mesh/chaos-mesh (fetch)
+   origin    git@github.com:$(user)/gitcheck.git (fetch)
+   origin    git@github.com:$(user)/gitcheck.git (push)
+   upstream  https://github.com/manishdangi98/gitcheck (fetch)
    upstream  no_push (push)
    ```
